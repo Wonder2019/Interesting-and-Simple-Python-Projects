@@ -1,4 +1,3 @@
-#
 import time
 total_time = 0
 while True:
